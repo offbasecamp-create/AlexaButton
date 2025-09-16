@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My One-Shot MP3</title>
+    <link>https://offbasecamp-create.github.io/AlexaButton/feed.xml</link>
+    <language>en-us</language>
+    <itunes:author>You</itunes:author>
+    <description>Single audio item for Alexa routine.</description>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Latest clip</title>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">clip-001</guid>
+      <enclosure
+        url="https://raw.githubusercontent.com/offbasecamp-create/AlexaButton/main/Buffalo%20Bills%20Shout%20Song.mp3"
+        type="audio/mpeg"
+        length="951485"/>
+      <itunes:duration>00:01:23</itunes:duration>
+      <description>Plays your MP3.</description>
+    </item>
+
+  </channel>
+</rss>
