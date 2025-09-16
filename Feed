@@ -2,7 +2,7 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My One-Shot MP3</title>
+    <title>BillsShoutSong</title>
     <link>https://offbasecamp-create.github.io/AlexaButton/feed.xml</link>
     <language>en-us</language>
     <itunes:author>You</itunes:author>
